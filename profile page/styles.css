@@ -1,0 +1,31 @@
+body{
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+header{
+    color:blue;
+    text-align: center;
+    padding:20px;
+
+}
+.image{
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+.ligne{
+    padding: 1px;
+    box-shadow:0 0 5px  rgb(112, 112, 237);
+}
+.tit{
+    color: rgb(62, 62, 245);
+
+}
+.cont:hover{
+   cursor: pointer;
+
+}
+.cont{
+    text-decoration: dotted;
+}
